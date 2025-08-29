@@ -71,5 +71,5 @@ This project analyzes the **Bank Marketing Additional Dataset** (Kaggle) to eval
 
 ---
 
-📄 [View Full Analysis Output (PDF)](Bank Marketing Campaign Analysis & Risk Insights.pdf)
+📄 [View Full Report: Bank Marketing Campaign Analysis & Risk Insights (PDF)](Bank%20Marketing%20Campaign%20Analysis%20%26%20Risk%20Insights.pdf)  
 
